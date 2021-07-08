@@ -1,7 +1,12 @@
-/* 
-  
-  This is a placeholder file. You can generate this file using this page:
-    
-  https://cloud.google.com/docs/authentication/getting-started
- 
-*/
+{
+  "type": "service_account",
+  "project_id": "ai-x9qd",
+  "private_key_id": "406f005b63f7a7a2a6b3ba9fc2f82266a5ad871a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCTLmbLhwn7tVUK\nOO1KLTfQSHnvU/7lt7sKGlkNuL3hhfMaDwGAieSXt3SFyaWtaa1ZZOcDb66ec4D/\nsqoP3i2PsmXzJAmK/ZDVxH3CKxepAIqchhRP9NGsdKFT/A4PqT8Jh40MD2ysXTMs\nADsHNUCh9StJvuIXp20MDWcvBrGBWYiaU81BTtW7colFhA4QgFK1EuIn844zHZ3V\n3bLM4bwcG6I9s4YF6BGX4NiyS4+uO8klf1R2DGwoWWuEbnQk2yDs2wViKDvtPd3R\nR1DecryUtGkSsh/kNELnlHCH2vZMUxFgrheITcX3sfDgL7nGauDCxEJ/zC5JEIdN\n+ENxNYmDAgMBAAECggEAGwiTVf/UPBj26T1CjHTYwxeE2go2D/Ca2MS1JbmQmutV\nFyy5bGgnhhxquSYsGbmG3xwS+IUbcDwr7gtdhDOdb77nTe0JGa/wWetQ5AixPFf+\nnbhc48DGgGQdu8TYulSuYOw2Yog0wEYQH51dOjo0SGs1S8LVWV3lwCh4EuGqWeUW\nSIM8hEK5+3JqE81chlAWW+OHYm8U8Bk+rP16bY2oisCmYTkusY3TBC7itk6fIuLt\nwXjMhpF6KEYx12sfIJO+NO+Gb3+1jluLq//8Ziv/y3tjO3J38YrQOMQ2BBwY+F4d\ncl98DMTJzWcczPT7X9005c38+2znU4tDAus3qojABQKBgQDGfvPrbALnfiLSUaD0\nKywp6jn/j26lCPso88d8TD0AqyRUoT+qvLs86eXkF94EI5t7EadedLqi7ocMRe2s\nnhYJXnfq8ZAa2ojHXpDNTWRCQlZ5StkDtHLn+0ZzTtZU7nAEOSiXRgc05oAG3IhK\nbMVPBuzjgRFK/l5JUVsg639qpwKBgQC90c0mlsx5G8aV2J/RArInwDSdLnZFcsdC\nJWHsuiBCQP6YSt8bcWaqH9sZlQ0Jhruj+f4Xrx95dYgbDKzwaGSWaMhIfiNfdUGD\nIalaFQ0z1/5TrLfJiFj+NVuYDKRwRd06a9JO1wUFSVzTi1oZ/7UZYl+9IntpWUBm\nPbplcZ2xxQKBgQCFLXp0kwSj0vKEEDagfDLmcHu3ZsHCwvLYuC84y2IGh80ZZxLz\neCtcJEaVMhpIxqcz/FVCP6lVVhqP9n8P2QVKBfMJVEfubH9m3KDkzi8dcarZOInA\nPZr24JWVGekeFNhdTQhZ7qc5LAnsEJz06mO7sRbRUbCLk30pTgeJX9gecwKBgC3q\nizKTdcCx/FaRAQ/BFDFTaCbBb3CbNCIHAuoNl/IO4MccDV4JD2mFrS1CBdZRFiCz\nP0ihXv61dIf+h/LbfcF4dUI76PiVV5SN1vZoczogPHAnLon8hnJvm8lq/Xf/HmWc\nYVIa5ycBOQgfBFuXpEoQptIMfkfchBx3QBh75EZ1AoGALmtYkTiURafFx/4xHHtQ\n4a09mHTL3+kZPU/IDK2P3OilzP0OR1gqTTZnu8uiQflscvy+rRnoH1pPSh/gWB2e\ntSd3pgtMZ8OlgwJNu4f1nBoVIcECRRMFziPHrjl0G6UtRbIdfarO0Z2mzb7fkctW\n7kMVCGtAypHgU/gxQ88lLew=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ai-548@ai-x9qd.iam.gserviceaccount.com",
+  "client_id": "109439869345869735305",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ai-548%40ai-x9qd.iam.gserviceaccount.com"
+}
